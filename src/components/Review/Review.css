@@ -1,0 +1,83 @@
+main{
+    position: relative;
+    background: #eff3f9
+}
+.rondt{
+    position: absolute;
+    left: 68.67%;
+    right: 10.06%;
+    top: 0%;
+    bottom: 89.74%;
+   
+    
+}
+.small{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 9.87%;
+    right: 80%;
+    top: 11.95%;
+    bottom: 83.37%;
+    background: linear-gradient(147.47deg, #FEB665 24.48%, #F66EB4 118.65%);
+    border-radius: 50%;
+}
+.elispe1{
+	position: absolute;
+    width: 212px;
+    height: 212px;
+    right:150px;
+    top: 23.95%;
+border-radius: 50%;
+margin: 0 auto;
+
+background: linear-gradient(141.64deg, #FFF17C -3.59%, #FF8B8E 118.04%);
+
+}
+
+.rect{
+    position: absolute;
+    width: 36px;
+    height: 12px;
+    left: 80px;
+    top: 720px;
+    background: rgb(85, 214, 20);
+    border-radius: 11111px;
+    }
+    .rect-1{
+    border-radius: 50%;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 65px;
+    top: 720px;
+    background: #8EF15C;
+    opacity: 0.25;
+    }
+.rect-2{
+        border-radius: 50%;
+        position: absolute;
+        width: 12px;
+        height: 12px;
+        left: 122px;
+        top: 720px;
+        background: #8EF15C;
+        opacity: 0.25;
+    }
+.bot-pg2{
+        
+        position: absolute;
+        left: 0%;
+        right: 49.89%;
+        top: 87.31%;
+        bottom: 0%;
+        
+    }
+    .star{
+    position: absolute;
+    left: 27%;
+    right: 0%;
+    top: 20%;
+    bottom: 1.6%;
+    }
+    

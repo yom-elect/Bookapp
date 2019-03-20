@@ -1,0 +1,38 @@
+.main1{
+position: relative;
+background: #eff3f9
+}
+.footer{
+    background: white;
+    width:100%;
+    padding-bottom: 0%;
+}
+
+.success{
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    left: 200px;
+    top: 69px;
+    border-radius: 50%;
+}
+.appr{
+    color: #384F7D;
+    line-height: normal;
+    text-align: center;
+    font-size: 32px;
+}
+.narr{
+    color: rgba(56, 79, 125, 0.8);
+    line-height: 22px;
+    text-align: center;
+    font-size: 14px;
+}
+.interest{
+    color: rgba(56, 79, 125, 0.8);
+    font-size: 12px;
+    line-height: normal;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
